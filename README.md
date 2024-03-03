@@ -1,4 +1,4 @@
-# Excel-projects
+# Excel-Sales-and-Analytics
 Data Cleaning: Mastering the art of turning messy data into valuable insights. 💡 Power Query: Unleashing the power of data transformation and shaping. 🔄 Pivot Tables: Navigating and analyzing data like a pro. 📊 Advanced Statistical Advantage: Elevating my analytical skills to the next level. 💰 Sales and Financial Analytics Prowess: Gaining insights into the heartbeat of businesses. 🌐 Real-time Business Problem-solving: Tackling challenges head-on with data-driven solutions.
 
 Problem Statement AtliQ is a fast-growing hardware company that sells various products to customers in many countries through various channels, including retail, direct sales, and distributor networks, both online and in brick-and-mortar stores. To support its growth and make data-driven decisions, AtliQ needs a data analytics team.
